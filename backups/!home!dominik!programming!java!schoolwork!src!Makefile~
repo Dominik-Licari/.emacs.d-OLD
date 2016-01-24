@@ -1,0 +1,9 @@
+CC = javac -d ../out
+
+build: 
+	$(CC)/DomTools DomTools/*.java
+	$(CC) *.java
+clean: 
+	rm ../out/*.class
+
+rebuild: clean build

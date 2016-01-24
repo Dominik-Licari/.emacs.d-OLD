@@ -1,0 +1,8 @@
+public class callingaclass
+{
+    public static void main(String[] argsv)
+    {
+	
+	helloworld.prl("Test");
+    }
+}
