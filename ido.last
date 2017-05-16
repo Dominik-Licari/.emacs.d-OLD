@@ -1,0 +1,73 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/dominik/schoolwork/" . "DomTools/")
+ ("/home/dominik/programming/java/" . "schoolwork/")
+ ("/home/dominik/programming/cl/lisp-koans/" . "koans/")
+ ("/home/dominik/programming/cl/" . "lisp-koans/")
+ ("/home/dominik/programming/" . "java/")
+ ("/home/dominik/.emacs.d/" . "themes/")
+ ("/home/dominik/" . "programming/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/dominik/schoolwork/DomTools/"
+ "/home/dominik/schoolwork/"
+ "/home/dominik/schoolwork/Homework/"
+ "/home/dominik/programming/java/schoolwork/"
+ "/home/dominik/programming/haskell/"
+ "/home/dominik/.emacs.d/"
+ "/home/dominik/programming/cpp/"
+ "/home/dominik/programming/cl/lisp-koans/koans/"
+ "/home/dominik/programming/java/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "Pair.java"
+ "JobQuiz.java"
+ "Makefile"
+ "WC.hs"
+ "init.el"
+ "helloworld.cpp"
+ "Tuple.java"
+ "skellington.java"
+ "arrays.lsp"
+ "lists.lsp"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/dominik/schoolwork/DomTools/" (22180 28002 912405 845000) "../" "Pair.class" "Pair.java" "./")
+
+ ("/home/dominik/schoolwork/" (22180 27832 315084 159000) "../" "JobQuiz.java" "first.java" "DomTools/" "helloworld.java" "callingaclass.java" "./" "Makefile" "backburner/" "ticket.java")
+
+ ("/home/dominik/schoolwork/Homework/" (22180 27074 117504 307000) "../" "Pair.class" "Pair.java" "JobQuiz.java" "./")
+
+ ("/home/dominik/programming/java/schoolwork/" (22180 9669 448301 667000) "../" "Pair.class" "Pair.java" "first.class" "JobQuiz.java" "first.java" "ticket.class" "JobQuiz.class" "helloworld.java" "callingaclass.java" "./" "callingaclass.class" "pr.java" "helloworld.class" "Tuple.java" "ticket.java" "Tuple.class" "skellington.java")
+
+ ("/home/dominik/" (22179 3552 382340 240000) "Videos/" ".cache/" ".steampath" "src/" ".xmonad/" "bin/" "../" "Downloads/" "urbit/" ".gconf/" ".arduino/" ".m2/" "MyMachines/" "quicklisp/" ".gnupg/" ".dmrc" ".tmp.swp" ".slime/" ".xsession-errors" "sketchbook/" ".steampid" ".MPS32/" ".sbclrc" "examples.desktop" ".pki/" ".lein/" "Templates/" ".Xauthority" ".purple/" ".sudo_as_admin_successful" "emacs-for-clojure-book1/" ".ghc/" "downloads/" ".bash_history" "Music/" ".viminfo" ".xprofile" ".ssh/" "schoolwork/" "./" ".bash_logout" ".emacs.d/" ".ICEauthority" ".xinitrc" ".bashrc" ".nano/" "less" ".profile" ".config/" ".vim/" ".springlobby/" ".java/" ".pulse-cookie" ".macromedia/" "programming/" ".gnome/" ".steam/" "Public/" ".xsession-errors.old" ".cabal/" ".slime-history.eld" ".mozilla/" "Desktop/" "tmp.save" ".adobe/" "vms/" "Documents/" "docs/" "Pictures/" ".dbus/" ".local/")
+
+ ("/home/dominik/.emacs.d/" (22178 63314 627231 88000) "../" "ido.last" "backups/" "haskell-mode/" "README.md" "themes/" "elpa/" "./" "init.el" ".recentf" "auto-save-list/" "places" ".smex-items" "projectile-bookmarks.eld" ".gitignore" "customizations/")
+
+ ("/home/dominik/programming/java/" (22174 23572 674080 90000) "../" "schoolwork/" "./")
+
+ ("/home/dominik/programming/cpp/" (22150 7048 522969 741000) "grades.cpp" "grades" "../" "loops.cpp" "string.cpp" "helloworld.cpp" "./" "string" "helloworld")
+
+ ("/home/dominik/programming/cl/lisp-koans/koans/" (22175 55356 69460 981000) "iteration.lsp" "../" "atoms-vs-lists.lsp" "mapcar-and-reduce.lsp" "extra-credit.lsp" "scoring-project.lsp" "triangle-project.lsp" "loops.lsp" "dice-project.lsp" "type-checking.lsp" "GREED_RULES.txt" "lists.lsp" "equality-distinctions.lsp" "asserts.lsp" "vectors.lsp" "./" "functions.lsp" "hash-tables.lsp" "multiple-values.lsp" "threads.lsp" "arrays.lsp" "variables-parameters-constants.lsp" "structures.lsp" "macros.lsp" "strings.lsp" "nil-false-empty.lsp" "condition-handlers.lsp" "scope-and-extent.lsp" "control-statements.lsp" "clos.lsp" "evaluation.lsp" "special-forms.lsp")
+
+ ("/home/dominik/programming/cl/lisp-koans/" (22175 55356 69460 981000) "../" ".git/" "LICENSE" "unused-test-ideas.lsp" "README.md" "koans/" ".koans" "./" "contemplate.lsp" ".gitignore" "lisp-unit.lsp" "TODO")
+
+ ("/home/dominik/programming/cl/" (22175 55355 281455 622000) "../" "lisp-koans/" "./")
+
+ ("/home/dominik/programming/haskell/" (22125 62825 351492 504000) "../" "./" "WC.hs")
+
+ ("/home/dominik/programming/" (22140 40684 37826 358000) "../" "cl/" "./" "haskell/" "java/" "clojure/" "cpp/")
+
+ ("/home/dominik/.emacs.d/themes/" (22150 59336 683146 27000) "../" "color-theme-tomorrow.el" "tomorrow-theme.el" "zenburn-theme.el" "tomorrow-night-blue-theme.el" "./" "tomorrow-night-eighties-theme.el" "tomorrow-night-theme.el" "tomorrow-night-bright-theme.el")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

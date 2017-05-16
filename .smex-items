@@ -1,0 +1,38 @@
+
+;; ----- smex-history -----
+(
+ compile
+ kill-word
+ indent-region
+ indent-to
+ c-set-style
+ c-add-style
+ replace-regexp
+)
+
+;; ----- smex-data -----
+(
+ (load-file . 1)
+ (complete-tag . 1)
+ (compile . 4)
+ (eval-buffer . 3)
+ (5x5 . 1)
+ (dig . 1)
+ (package-install . 1)
+ (java-mode . 1)
+ (kill-region . 1)
+ (yank . 1)
+ (cider-scratch . 1)
+ (eval-last-sexp . 2)
+ (help . 2)
+ (kill-buffer-and-window . 1)
+ (kill-sexp . 1)
+ (paredit-forward-slurp-sexp . 1)
+ (yank-pop . 1)
+ (replace-regexp . 2)
+ (c-add-style . 1)
+ (c-set-style . 2)
+ (indent-to . 1)
+ (indent-region . 1)
+ (kill-word . 1)
+)

@@ -1,0 +1,16 @@
+//this is a comment
+/*
+  this is a multi line
+  comment
+*/
+public class helloworld //this is a class. It is a collection of methods and variables
+{
+    public static void main(String[] argsv) //this is the main method. This is the thing that the program runs at the start
+    {
+	prl("Hello world!"); //calling a method
+    }
+    public static void prl(String in) //making a method
+    {
+	System.out.println(in);
+    }
+}

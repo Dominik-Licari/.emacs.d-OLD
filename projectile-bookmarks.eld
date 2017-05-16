@@ -1,0 +1,1 @@
+("~/programming/cl/lisp-koans/" "~/.xmonad/")

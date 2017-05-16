@@ -1,0 +1,15 @@
+public class first
+{
+    public static void main(String[] argsv)
+    {
+	int[] z = {0, 1 ,2, 3, 4};
+	int y = 5;
+	prl("the answer is " + 3 + 5);
+	prl("x = " + y)
+	double x = ((double) z[1] + z[4]) / z[2];
+    }
+    public static void prl(String in) //making a method
+    {
+	System.out.println(in);
+    }
+}
